@@ -1,0 +1,15 @@
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Infrastructure.Interface\bin\Debug\net9.0\Pacagroup.Ecommerce.Infrastructure.Interface.deps.json
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Infrastructure.Interface\bin\Debug\net9.0\Pacagroup.Ecommerce.Infrastructure.Interface.dll
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Infrastructure.Interface\bin\Debug\net9.0\Pacagroup.Ecommerce.Infrastructure.Interface.pdb
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Infrastructure.Interface\bin\Debug\net9.0\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Infrastructure.Interface\bin\Debug\net9.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Infrastructure.Interface\obj\Debug\net9.0\Pacagroup.Ecommerce.Infrastructure.Interface.csproj.AssemblyReference.cache
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Infrastructure.Interface\obj\Debug\net9.0\Pacagroup.Ecommerce.Infrastructure.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Infrastructure.Interface\obj\Debug\net9.0\Pacagroup.Ecommerce.Infrastructure.Interface.AssemblyInfoInputs.cache
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Infrastructure.Interface\obj\Debug\net9.0\Pacagroup.Ecommerce.Infrastructure.Interface.AssemblyInfo.cs
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Infrastructure.Interface\obj\Debug\net9.0\Pacagroup.Ecommerce.Infrastructure.Interface.csproj.CoreCompileInputs.cache
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Infrastructure.Interface\obj\Debug\net9.0\Pacagrou.A32FEF46.Up2Date
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Infrastructure.Interface\obj\Debug\net9.0\Pacagroup.Ecommerce.Infrastructure.Interface.dll
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Infrastructure.Interface\obj\Debug\net9.0\refint\Pacagroup.Ecommerce.Infrastructure.Interface.dll
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Infrastructure.Interface\obj\Debug\net9.0\Pacagroup.Ecommerce.Infrastructure.Interface.pdb
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Infrastructure.Interface\obj\Debug\net9.0\ref\Pacagroup.Ecommerce.Infrastructure.Interface.dll

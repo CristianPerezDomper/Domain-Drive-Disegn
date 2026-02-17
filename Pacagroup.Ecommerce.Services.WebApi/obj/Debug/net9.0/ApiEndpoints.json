@@ -1,0 +1,131 @@
+[
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.CustomersController",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/Customers/DeleteAsync/{customerId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Pacagroup.Ecommerce.Transversal.Common.Response\u00601[[System.Boolean, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.CustomersController",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/Customers/GetAllAsync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Pacagroup.Ecommerce.Transversal.Common.Response\u00601[[System.Collections.Generic.IEnumerable\u00601[[Pacagroup.Ecommerce.Application.DTO.CustomerDto, Pacagroup.Ecommerce.Application.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.CustomersController",
+    "Method": "GetAsync",
+    "RelativePath": "api/Customers/GetAsync/{customerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Pacagroup.Ecommerce.Transversal.Common.Response\u00601[[Pacagroup.Ecommerce.Application.DTO.CustomerDto, Pacagroup.Ecommerce.Application.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.CustomersController",
+    "Method": "InsertAsync",
+    "RelativePath": "api/Customers/InsertAsync",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerDto",
+        "Type": "Pacagroup.Ecommerce.Application.DTO.CustomerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Pacagroup.Ecommerce.Transversal.Common.Response\u00601[[System.Boolean, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.CustomersController",
+    "Method": "UpdateAsync",
+    "RelativePath": "api/Customers/UpdateAsync/{customerId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "customerDto",
+        "Type": "Pacagroup.Ecommerce.Application.DTO.CustomerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Pacagroup.Ecommerce.Transversal.Common.Response\u00601[[System.Boolean, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

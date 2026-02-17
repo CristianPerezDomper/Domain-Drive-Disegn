@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "so1YjIwml1Q=",
+  "success": true,
+  "projectFilePath": "C:\\ArquitecturaDomain\\Pacagroup\\Pacagroup.Ecommerce.Transversal.Logging\\Pacagroup.Ecommerce.Transversal.Logging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dompe\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.308\\microsoft.net.sdk.compilers.toolset.9.0.308.nupkg.sha512"
+  ],
+  "logs": []
+}

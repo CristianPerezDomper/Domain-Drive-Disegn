@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jGti72ZNkRo=",
+  "success": true,
+  "projectFilePath": "C:\\ArquitecturaDomain\\Pacagroup\\Pacagroup.Ecommerce.Application.DTO\\Pacagroup.Ecommerce.Application.DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dompe\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.308\\microsoft.net.sdk.compilers.toolset.9.0.308.nupkg.sha512"
+  ],
+  "logs": []
+}

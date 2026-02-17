@@ -1,0 +1,15 @@
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Domain.Interface\bin\Debug\net9.0\Pacagroup.Ecommerce.Domain.Interface.deps.json
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Domain.Interface\bin\Debug\net9.0\Pacagroup.Ecommerce.Domain.Interface.dll
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Domain.Interface\bin\Debug\net9.0\Pacagroup.Ecommerce.Domain.Interface.pdb
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Domain.Interface\bin\Debug\net9.0\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Domain.Interface\bin\Debug\net9.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net9.0\Pacagroup.Ecommerce.Domain.Interface.csproj.AssemblyReference.cache
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net9.0\Pacagroup.Ecommerce.Domain.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net9.0\Pacagroup.Ecommerce.Domain.Interface.AssemblyInfoInputs.cache
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net9.0\Pacagroup.Ecommerce.Domain.Interface.AssemblyInfo.cs
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net9.0\Pacagroup.Ecommerce.Domain.Interface.csproj.CoreCompileInputs.cache
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net9.0\Pacagrou.D2876F64.Up2Date
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net9.0\Pacagroup.Ecommerce.Domain.Interface.dll
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net9.0\refint\Pacagroup.Ecommerce.Domain.Interface.dll
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net9.0\Pacagroup.Ecommerce.Domain.Interface.pdb
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net9.0\ref\Pacagroup.Ecommerce.Domain.Interface.dll

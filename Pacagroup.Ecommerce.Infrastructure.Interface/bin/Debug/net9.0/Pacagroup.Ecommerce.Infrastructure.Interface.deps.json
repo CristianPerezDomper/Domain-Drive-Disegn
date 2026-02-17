@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Pacagroup.Ecommerce.Infrastructure.Interface/1.0.0": {
+        "dependencies": {
+          "Pacagroup.Ecommerce.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Pacagroup.Ecommerce.Infrastructure.Interface.dll": {}
+        }
+      },
+      "Pacagroup.Ecommerce.Domain.Entity/1.0.0": {
+        "runtime": {
+          "Pacagroup.Ecommerce.Domain.Entity.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pacagroup.Ecommerce.Infrastructure.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pacagroup.Ecommerce.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

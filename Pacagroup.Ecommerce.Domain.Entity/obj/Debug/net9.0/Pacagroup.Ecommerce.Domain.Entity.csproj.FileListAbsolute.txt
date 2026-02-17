@@ -1,0 +1,11 @@
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Domain.Entity\bin\Debug\net9.0\Pacagroup.Ecommerce.Domain.Entity.deps.json
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Domain.Entity\bin\Debug\net9.0\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Domain.Entity\bin\Debug\net9.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net9.0\Pacagroup.Ecommerce.Domain.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net9.0\Pacagroup.Ecommerce.Domain.Entity.AssemblyInfoInputs.cache
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net9.0\Pacagroup.Ecommerce.Domain.Entity.AssemblyInfo.cs
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net9.0\Pacagroup.Ecommerce.Domain.Entity.csproj.CoreCompileInputs.cache
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net9.0\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net9.0\refint\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net9.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\ArquitecturaDomain\Pacagroup\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net9.0\ref\Pacagroup.Ecommerce.Domain.Entity.dll
